@@ -1,3 +1,5 @@
 # Learn PHP the right way
 
-1.14 Superglobals - provide info about the server & request
+2.23. PHP Superglobals - Basic Routing Using The Server Info
+
+
